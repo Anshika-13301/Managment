@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+  margin-bottom: 0;
+}
+
+section#about {
+  background-color: #faf9f8;
+}
+
+form {
+  background: #f8f9fa;
+  padding: 20px;
+  border-radius: 10px;
+}
